@@ -51,3 +51,6 @@ The most useful files are summarized here.
 questions.csv:		file containing the test questions metadata,
 
 lectures.csv: 		file containing the lecture video metadata,
+
+
+            train.csv: 	file containing over 100 million rows of students interactions with test questions and lecture videos
