@@ -36,7 +36,7 @@ As Riiid! and Kaggle have a vested interest in cultivating state-of-the-art mode
 [EDA Report](https://colab.research.google.com/drive/13dcDkM-_T9a69Mjl5dngUVlCGvbD4wvi)
 
 
-* Even without feature engineering, some features were pridictive of the student's responses.  
+* Even without feature engineering, some features were predictive of the student's responses.  
 
 
 In in the left plot, 300 milliseconds in the mean time elapsed while answering the previoius question is a statisically significant seperation between the two predictions. In the right plot, 9 days in the mean user account age is a statisically significant seperation between the two predictions.
