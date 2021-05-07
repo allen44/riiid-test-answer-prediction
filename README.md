@@ -72,7 +72,7 @@ This algorithm is best descrided by the first paragraph of its documentation:
 While modeling this data, all of those claims were shown to be accurate.
 
 
-![](./6_____README_files/____accuracy.png)
+![](./viz/extended_dataset_test_eval.png)
 
 
 
@@ -81,7 +81,7 @@ While modeling this data, all of those claims were shown to be accurate.
 * In the future, I would love to integrate an API where a student or teacher, or their app, can query the model with information about some kind of content and receive the prediction without having to use a Jupyter notebook inteface.
 
 
-* Due to RAM constraints on google colab, I had to train a 1% sample of the original 6x dataset. Without resource limitations, I would love to train on the full dataset. Preliminary tests showed that the bigger the training size, the higher the ROC AUC. 
+* Due to RAM constraints on google colab, I had to train a 1% sample of the original 100 million sample dataset. Without resource limitations, I would love to train on the full dataset. Preliminary tests showed that the bigger the training size, the higher the ROC AUC for most of the models--except for LightGBM which did not required less than 40000 samples to reach its peak score. 
 
 ## 9. Credits
 
