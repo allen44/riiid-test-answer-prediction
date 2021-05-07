@@ -29,7 +29,7 @@ I chose to work with a content-based tracing and prediction system. This made th
 
 ## 3. Data Cleaning 
 
-As Riiid! and Kaggle have a vested intesrest cultivating state-of-the-art models from the competitors with maximium reproducibility, clean data is the baseline expectation. During data import, I found this to be the case. Other than memory size contraints, I was able to easily import from either the csv files or the Kaggle CLI.
+As Riiid! and Kaggle have a vested interest in cultivating state-of-the-art models from the competitors with maximium reproducibility, clean data is the baseline expectation. During data import, I found this to be the case. Other than memory size contraints, I was able to easily import from either the csv files or the Kaggle CLI.
 
 ## 4. EDA
 
@@ -86,3 +86,7 @@ While modeling this data, all of those claims were shown to be accurate.
 ## 9. Credits
 
 Thanks to the open source devs who maintain Sci-kit Learn, and Shmuel Naaman for being an amazing Springboard mentor.
+
+
+
+
