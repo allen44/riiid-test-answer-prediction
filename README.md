@@ -51,7 +51,7 @@ In in the left plot, 300 milliseconds in the mean time elapsed while answering t
 
 I chose to work with [Sci-kit Learn](https://sklearn.org/) and a Python-implemented [Bayesian Optimization library](https://github.com/fmfn/BayesianOptimization) for selecting and training my model. I tested the feature-engineered dataset on 5 different algorithms that were well-suited for the dataset and the modelling goals. The LightGBM and Random Forest algorithms both scored the best but a comparision of the learning rates shows that LightGBM learns much faster than Random Forest, in terms of both fit time and number of samples.
 
-![](./6.png)
+![](./viz/compare_learning_curves_lgbm_rf.png)
 
 >***NOTE:** I choose ROC AUC as the scoring metric because the models will be on this metric if entered into the Kaggle competition. The ROC AUC useful when we want to evaluate a model by considering the probabilities it assigns to its predictions, rather than just the predictions only*
 
@@ -86,7 +86,3 @@ While modeling this data, all of those claims were shown to be accurate.
 ## 9. Credits
 
 Thanks to the open source devs who maintain Sci-kit Learn, and Shmuel Naaman for being an amazing Springboard mentor.
-
-
-
-
