@@ -1,7 +1,7 @@
 ![cover_photo](./6_README_files/cover_photo.png)
 # Student Knowledge Tracing with an Answer Prediction System
 
-*The number of students in the world has been steadily increasing. The UNESCO Institue for Statistics data show the the number of students in the world has been increasing while the ratio of teachers to students has been decreasing. Yet, even with these opposing shifts, the most common way to track student knowledge has been to pose question to a student and have a teacher evaulate the student's response. In this project, I will create knowledge tracing system that will help teachers understand what content a student already knows, and predict the student's learning to new content.*
+*The number of students in the world has been steadily increasing. The UNESCO Institue for Statistics data show the the number of students in the world has been increasing while the ratio of teachers to students has been decreasing. Yet, even with these opposing shifts, the most common way to track student knowledge has been to pose question to a student and have a teacher evaulate the student's response. In this project, I will create a knowledge tracing system that will help teachers understand what content a student already knows, and predict the student's learning to new content.*
 
 
 ## 1. Data
