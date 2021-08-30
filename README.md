@@ -1,4 +1,6 @@
-![cover_photo](./6_README_files/cover_photo.png)
+[![Build Status](https://app.travis-ci.com/allen44/riiid-test-answer-prediction.svg?branch=main)](https://app.travis-ci.com/allen44/riiid-test-answer-prediction)
+
+
 # Student Knowledge Tracing with an Answer Prediction System
 
 *The number of students in the world has been steadily increasing. The UNESCO Institute for Statistics data show that the ratio of teachers to students has been decreasing. Yet, even with these opposing shifts, the most common way to track student knowledge has been to pose question to a student and have a teacher evaluate the student's response. In this project, I will create a knowledge tracing system that will help teachers understand what content a student already knows, and predict the student's learning of new content.*
